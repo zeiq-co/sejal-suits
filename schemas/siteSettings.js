@@ -3,7 +3,7 @@ export default {
   type: 'document',
   title: 'Site Settings',
   __experimental_actions: [
-    // 'create',
+    'create',
     'update',
     // 'delete',
     'publish',

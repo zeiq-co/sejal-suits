@@ -1,11 +1,11 @@
 {
   "root": true,
   "api": {
-    "projectId": "2jkk6tlv",
+    "projectId": "if1wbudk",
     "dataset": "production"
   },
   "project": {
-    "name": "--siteName--"
+    "name": "Sejal-Suits"
   },
   "plugins": [
     "@sanity/base",
